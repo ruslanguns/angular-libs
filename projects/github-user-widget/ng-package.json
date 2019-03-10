@@ -1,0 +1,10 @@
+{
+    "$schema": "../../node_modules/ng-packagr/ng-package.schema.json",
+    "dest": "../../dist/rus-github-user-widget",
+    "lib": {
+        "entryFile": "src/public_api.ts",
+        "umdModuleIds": {
+            "api4github": "^1.0.0"
+        }
+    }
+}
